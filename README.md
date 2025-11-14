@@ -16,7 +16,7 @@
 
 - 🎓 **B.Tech in Computer Science (AI & ML Track)** at DY Patil International University, Pune (2023–Present)  
 - 💼 **AI/ML & Data Analytics Intern at Cygnet.One (May–July 2025)**  
-- 🔭 Currently exploring ** full-stack projects, and ML-based automation**  
+- 🔭 Currently exploring **full-stack projects, and ML-based automation**  
 - 🚀 Passionate about **building scalable systems, automation tools, and user-friendly interfaces**  
 - 🌱 Learning **Advanced ML, Cloud Deployments & System Design**
 
