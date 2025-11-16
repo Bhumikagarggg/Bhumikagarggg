@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhumika Garg</h1>
-<h3 align="center">AI/ML & Full-Stack Developer | C# | Python | Node.js | React</h3>
+<h3 align="center">AI/ML & Full-Stack Developer | C | C++ | Python | Node.js | React</h3>
 
 ---
 
