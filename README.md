@@ -70,15 +70,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Bhumikagarggg&show_icons=true&theme=radical&count_private=true" height="165"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Bhumikagarggg&layout=compact&theme=radical" height="165"/>
-</p>
-
----
-
 ## ✨ Fun Things I Love
 - Building web apps that solve real problems  
 - Automating manual tasks with ML  
