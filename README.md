@@ -3,6 +3,18 @@
 
 ---
 
+### 🏆 Achievement
+<p align="center">
+  <div align="center">
+    <a href="https://cloud.layer5.io/userf457b1bd-cc89-4709-9127-0afbcfbdd972?tab=badges&badge=certified-meshery-contributor" alt="Certified Meshery Contributor" >
+      <img width="175px" height="252px" src="https://badges.layer5.io/assets/badges/certified-meshery-contributor/certified-meshery-contributor.png" alt="Certified Meshery Contributor" />
+    </a>
+  </div>
+</p>
+
+
+---
+
 ### 🌐 Connect With Me
 <p align="left">
 <a href="https://linkedin.com/in/bhumikagarg09" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
