@@ -6,7 +6,7 @@
 ### 🏆 Achievement
 <p align="center">
   <div align="center">
-    <a href="https://cloud.layer5.io/userf457b1bd-cc89-4709-9127-0afbcfbdd972?tab=badges&badge=certified-meshery-contributor" alt="Certified Meshery Contributor" >
+    <a href="https://cloud.layer5.io/user/f457b1bd-cc89-4709-9127-0afbcfbdd972?tab=badges&badge=certified-meshery-contributor" alt="Certified Meshery Contributor" >
       <img width="175px" height="252px" src="https://badges.layer5.io/assets/badges/certified-meshery-contributor/certified-meshery-contributor.png" alt="Certified Meshery Contributor" />
     </a>
   </div>
